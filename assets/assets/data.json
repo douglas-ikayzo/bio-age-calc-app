@@ -1,0 +1,186 @@
+{
+  "features": [
+    {
+      "name": "age",
+      "mean": 56.0487752,
+      "modifier": 0.100432393,
+      "enet": 0.074763266,
+      "sampleValue": 68
+    },
+    {
+      "name": "albumin",
+      "mean": 45.1238763,
+      "modifier": 0,
+      "enet": -0.011331946,
+      "sampleValue": 46.59
+    },
+    {
+      "name": "alkaline_phosphatase",
+      "mean": 82.6847975,
+      "modifier": 0,
+      "enet": 0.00164946,
+      "sampleValue": 66.1
+    },
+    {
+      "name": "urea",
+      "mean": 5.3547152,
+      "modifier": 0,
+      "enet": -0.029554872,
+      "sampleValue": 8.77
+    },
+    {
+      "name": "cholesterol",
+      "mean": 5.6177437,
+      "modifier": 0,
+      "enet": -0.0805656,
+      "sampleValue": 4.047
+    },
+    {
+      "name": "creatinine",
+      "mean": 71.565605,
+      "modifier": 0,
+      "enet": -0.01095746,
+      "sampleValue": 105.2
+    },
+    {
+      "name": "cystatin_c",
+      "mean": 0.900946,
+      "modifier": 0,
+      "enet": 1.859556436,
+      "sampleValue": 1.212
+    },
+    {
+      "name": "glycated_haemoglobin",
+      "mean": 35.4785711,
+      "modifier": 0,
+      "enet": 0.018116675,
+      "sampleValue": 41.2
+    },
+    {
+      "name": "log_c_reactive_protein",
+      "mean": 0.3003624,
+      "modifier": 0,
+      "enet": 0.079109916,
+      "sampleValue": 0.8754687
+    },
+    {
+      "name": "log_gamma_glutamyltransf",
+      "mean": 3.3795613,
+      "modifier": 0,
+      "enet": 0.265550311,
+      "sampleValue": 3.580737
+    },
+    {
+      "name": "red_blood_cell_erythrocyte_count",
+      "mean": 4.4994648,
+      "modifier": 0,
+      "enet": -0.204442153,
+      "sampleValue": 4.17
+    },
+    {
+      "name": "mean_corpuscular_volume",
+      "mean": 91.9251099,
+      "modifier": 0,
+      "enet": 0.017165356,
+      "sampleValue": 89.2
+    },
+    {
+      "name": "red_blood_cell_erythrocyte_distribution_width",
+      "mean": 13.4342296,
+      "modifier": 0,
+      "enet": 0.202009895,
+      "sampleValue": 14.8
+    },
+    {
+      "name": "monocyte_count",
+      "mean": 0.4746987,
+      "modifier": 0,
+      "enet": 0.36937314,
+      "sampleValue": 0.5
+    },
+    {
+      "name": "neutrophill_count",
+      "mean": 4.1849454,
+      "modifier": 0,
+      "enet": 0.06679092,
+      "sampleValue": 6.7
+    },
+    {
+      "name": "lymphocyte_percentage",
+      "mean": 28.5817604,
+      "modifier": 0,
+      "enet": -0.0108158,
+      "sampleValue": 11.7
+    },
+    {
+      "name": "mean_sphered_cell_volume",
+      "mean": 83.6363269,
+      "modifier": 0,
+      "enet": 0.006736204,
+      "sampleValue": 80.6
+    },
+    {
+      "name": "log_alanine_aminotransfe",
+      "mean": 3.077868,
+      "modifier": 0,
+      "enet": -0.312442261,
+      "sampleValue": 2.98214
+    },
+    {
+      "name": "log_shbg",
+      "mean": 3.8202787,
+      "modifier": 0,
+      "enet": 0.292323186,
+      "sampleValue": 3.404525
+    },
+    {
+      "name": "log_vitamin_d",
+      "mean": 3.6052878,
+      "modifier": 0,
+      "enet": -0.265467867,
+      "sampleValue": 4.592085
+    },
+    {
+      "name": "high_light_scatter_reticulocyte_percentage",
+      "mean": 0.3988152,
+      "modifier": 0,
+      "enet": 0.169234165,
+      "sampleValue": 0.35
+    },
+    {
+      "name": "glucose",
+      "mean": 4.9563054,
+      "modifier": 0,
+      "enet": 0.032171478,
+      "sampleValue": 4.641
+    },
+    {
+      "name": "platelet_distribution_width",
+      "mean": 16.4543576,
+      "modifier": 0,
+      "enet": 0.071527711,
+      "sampleValue": 15.7
+    },
+    {
+      "name": "mean_corpuscular_haemoglobin",
+      "mean": 31.8396206,
+      "modifier": 0,
+      "enet": 0.02746487,
+      "sampleValue": 30.3
+    },
+    {
+      "name": "platelet_crit",
+      "mean": 0.2385396,
+      "modifier": 0,
+      "enet": -1.329561046,
+      "sampleValue": 0.298
+    },
+    {
+      "name": "apolipoprotein_a",
+      "mean": 1.5238771,
+      "modifier": 0,
+      "enet": -0.185139395,
+      "sampleValue": 1.647
+    }
+  ]
+}
